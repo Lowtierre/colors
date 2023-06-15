@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: azure;
+    padding: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.color-sec p {
+    width: 45%;
+    background-color: antiquewhite;
+    text-align: justify;
+    display: inline-block;
+    margin-right: 25px;
+    padding: 15px 20px;
+}
+
+.color-sec code {
+    width: 45%;
+    background-color: antiquewhite;
+    text-align: justify;
+    display: inline-block;
+    padding: 15px 20px;
+
+}
